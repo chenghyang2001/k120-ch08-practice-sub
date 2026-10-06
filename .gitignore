@@ -22,3 +22,6 @@ core
 *.core
 *.dmp
 *.corrupt
+
+# hook 自動產生的 session 狀態
+.claude/session-state.md
